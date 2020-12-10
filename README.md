@@ -30,7 +30,7 @@
 
 
 <p><img align="left" alt="bnlrnz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bnlrnz&show_icons=true&locale=en&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnlrnz&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="bnlrnz" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnlrnz&show_icons=true&locale=en&layout=compact" alt="bnlrnz" /></p>
 
 
 
