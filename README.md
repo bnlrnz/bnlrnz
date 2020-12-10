@@ -29,8 +29,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" alt="bnlrnz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bnlrnz&show_icons=true&locale=en&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnlrnz&show_icons=true&locale=en&layout=compact" alt="bnlrnz" /></p>
-
+[![bnlrnz's github stats](https://github-readme-stats.vercel.app/api?username=bnlrnz)](https://github.com/anuraghazra/github-readme-stats)
 
 
