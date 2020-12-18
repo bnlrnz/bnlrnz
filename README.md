@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ben - aka <a href="https://github.com/bnlrnz">bnlrnz</a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnlrnz&label=Profile%20views&color=0e75b6&style=flat" alt="bnlrnz" /> </p>
+### Hi there 👋, I'm Ben - aka <a href="https://github.com/bnlrnz">bnlrnz</a>
 
 - 🔭 I’m currently working on a **costum Cave-Plugin for the Unreal Engine**
 - 🌱 I’m currently learning **Rust**
