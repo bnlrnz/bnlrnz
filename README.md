@@ -30,4 +30,4 @@
 
 
 [![bnlrnz's github stats](https://github-readme-stats.vercel.app/api?username=bnlrnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnlrnz&layout=compact&theme=onedark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnlrnz&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
