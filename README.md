@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a **costum Cave-Plugin for the Unreal Engine**
 - 🌱 I’m currently learning **Rust**
-- 👯 I’m looking to collaborate on **C, C++, C# and Kotlin projects**
+- 👯 I’m looking to collaborate on **C, C++, C#, Python and Kotlin projects**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -15,6 +15,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://swift.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
