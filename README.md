@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Ben - aka <a href="https://github.com/bnlrnz">bnlrnz</a>
 
-- 🔭 I’m currently working on a **costum Cave-Plugin for the Unreal Engine**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **C, C++, C#, Python and Kotlin projects**
 
