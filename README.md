@@ -19,7 +19,9 @@
 <a href="https://swift.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.unrealengine.com/en-US/?sessionInvalidated=true" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/464px-Unreal_Engine_Logo.svg.png" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.podman.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/> </a>
+<a href="https://www.kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
